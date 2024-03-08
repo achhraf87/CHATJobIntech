@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\CHATJb\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj": {}
+    "C:\\Users\\hp\\Desktop\\chatjobintechV3\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\CHATJb\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj": {
+    "C:\\Users\\hp\\Desktop\\chatjobintechV3\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\CHATJb\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\chatjobintechV3\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj",
         "projectName": "JobIntechCHAT.API",
-        "projectPath": "C:\\Users\\hp\\Desktop\\CHATJb\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\chatjobintechV3\\JobIntechCHAT.API\\JobIntechCHAT.API.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\CHATJb\\JobIntechCHAT.API\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\chatjobintechV3\\JobIntechCHAT.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
